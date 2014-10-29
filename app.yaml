@@ -1,0 +1,8 @@
+application: managedvm-provaric
+runtime: python27
+vm: true
+#...
+manual_scaling:
+  instances: 1
+vm_settings:
+  machine_type: n1-standard-1
