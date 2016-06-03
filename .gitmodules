@@ -1,0 +1,6 @@
+[submodule "cloudrepo"]
+  path = https://source.developers.google.com/p/managedvm-provaric/r/default
+  url = submodules/cloudrepo/
+[submodule "vendor/palladius-ricpuppet"]
+    path = vendor/palladius-ricpuppet
+    url = git://github.com/palladius/ricpuppet.git

@@ -1,7 +1,5 @@
+clone-repo:
+	gcloud source repos clone default --project=managedvm-provaric
 
-upload:
-	appcfg.py -e ricc@google.com -s preview.appengine.google.com update .
-
-upload-as-pall:
-	appcfg.py -e palladiusbonton@gmail.com -s preview.appengine.google.com update .
-
+push:
+	git push -u origin master
