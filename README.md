@@ -14,4 +14,6 @@ gcloud config set project managedvm-provaric \
   && cd ~/src/managedvm-provaric/ruby_mvms_quickstart/1-hello-world \
   && git checkout master
 
-ho messo il codice in default. Per farlo eseguire vai in hello-world e lo deploy cosi  
+ho messo il codice in default. Per farlo eseguire vai in hello-world e lo deploy cosi.
+tanto codice: https://console.cloud.google.com/appengine?project=managedvm-provaric
+
